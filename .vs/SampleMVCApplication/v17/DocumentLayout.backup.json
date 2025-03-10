@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kanshiram\\TECHNICAL ASSESMENT\\SampleMVCApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F423935-4229-48F2-83AD-04AE596C84A4}|SampleMVCApplication.csproj|d:\\kanshiram\\technical assesment\\samplemvcapplication\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F423935-4229-48F2-83AD-04AE596C84A4}|SampleMVCApplication.csproj|solutionrelative:models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F423935-4229-48F2-83AD-04AE596C84A4}|SampleMVCApplication.csproj|d:\\kanshiram\\technical assesment\\samplemvcapplication\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F423935-4229-48F2-83AD-04AE596C84A4}|SampleMVCApplication.csproj|solutionrelative:repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F423935-4229-48F2-83AD-04AE596C84A4}|SampleMVCApplication.csproj|d:\\kanshiram\\technical assesment\\samplemvcapplication\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F423935-4229-48F2-83AD-04AE596C84A4}|SampleMVCApplication.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F423935-4229-48F2-83AD-04AE596C84A4}|SampleMVCApplication.csproj|d:\\kanshiram\\technical assesment\\samplemvcapplication\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F423935-4229-48F2-83AD-04AE596C84A4}|SampleMVCApplication.csproj|solutionrelative:services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F423935-4229-48F2-83AD-04AE596C84A4}|SampleMVCApplication.csproj|d:\\kanshiram\\technical assesment\\samplemvcapplication\\data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F423935-4229-48F2-83AD-04AE596C84A4}|SampleMVCApplication.csproj|solutionrelative:data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F423935-4229-48F2-83AD-04AE596C84A4}|SampleMVCApplication.csproj|d:\\kanshiram\\technical assesment\\samplemvcapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F423935-4229-48F2-83AD-04AE596C84A4}|SampleMVCApplication.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F423935-4229-48F2-83AD-04AE596C84A4}|SampleMVCApplication.csproj|d:\\kanshiram\\technical assesment\\samplemvcapplication\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F423935-4229-48F2-83AD-04AE596C84A4}|SampleMVCApplication.csproj|solutionrelative:services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F423935-4229-48F2-83AD-04AE596C84A4}|SampleMVCApplication.csproj|d:\\kanshiram\\technical assesment\\samplemvcapplication\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F423935-4229-48F2-83AD-04AE596C84A4}|SampleMVCApplication.csproj|solutionrelative:repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\Kanshiram\\TECHNICAL ASSESMENT\\SampleMVCApplication\\Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\BookRepository.cs",
+              "ToolTip": "D:\\Kanshiram\\TECHNICAL ASSESMENT\\SampleMVCApplication\\Repository\\BookRepository.cs",
+              "RelativeToolTip": "Repository\\BookRepository.cs",
+              "ViewState": "AgIAACMAAADgMjMzMzMgwAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:01:07.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Kanshiram\\TECHNICAL ASSESMENT\\SampleMVCApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Kanshiram\\TECHNICAL ASSESMENT\\SampleMVCApplication\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T07:51:50.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\Kanshiram\\TECHNICAL ASSESMENT\\SampleMVCApplication\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "D:\\Kanshiram\\TECHNICAL ASSESMENT\\SampleMVCApplication\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:59:14.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookDBContext.cs",
+              "DocumentMoniker": "D:\\Kanshiram\\TECHNICAL ASSESMENT\\SampleMVCApplication\\Data\\BookDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\BookDBContext.cs",
+              "ToolTip": "D:\\Kanshiram\\TECHNICAL ASSESMENT\\SampleMVCApplication\\Data\\BookDBContext.cs",
+              "RelativeToolTip": "Data\\BookDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:59:47.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Books.cs",
+              "DocumentMoniker": "D:\\Kanshiram\\TECHNICAL ASSESMENT\\SampleMVCApplication\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "Models\\Books.cs",
+              "ToolTip": "D:\\Kanshiram\\TECHNICAL ASSESMENT\\SampleMVCApplication\\Models\\Books.cs",
+              "RelativeToolTip": "Models\\Books.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA6wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:56:37.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "D:\\Kanshiram\\TECHNICAL ASSESMENT\\SampleMVCApplication\\Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "Services\\IBookService.cs",
+              "ToolTip": "D:\\Kanshiram\\TECHNICAL ASSESMENT\\SampleMVCApplication\\Services\\IBookService.cs",
+              "RelativeToolTip": "Services\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAvwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:02:10.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\Kanshiram\\TECHNICAL ASSESMENT\\SampleMVCApplication\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Services\\BookService.cs",
+              "ToolTip": "D:\\Kanshiram\\TECHNICAL ASSESMENT\\SampleMVCApplication\\Services\\BookService.cs",
+              "RelativeToolTip": "Services\\BookService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvyEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:02:27.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\Kanshiram\\TECHNICAL ASSESMENT\\SampleMVCApplication\\Repository\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IBookRepository.cs",
+              "ToolTip": "D:\\Kanshiram\\TECHNICAL ASSESMENT\\SampleMVCApplication\\Repository\\IBookRepository.cs",
+              "RelativeToolTip": "Repository\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:01:24.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
